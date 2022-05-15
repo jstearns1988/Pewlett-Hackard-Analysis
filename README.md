@@ -15,6 +15,7 @@ This analysis was performed to sort retirment data for Pewlett Hackard and deter
 
 ### Retiring Titles
   - As seen in the Retiring Titles table, the largest group of employees retiring are Senior Engineers totalling 29,414. This totals almost a third of the retiring staff. Following closely behind is the Senior Engineers is the Senior Staff group at 28,254.
+
 ![Retiring Titles Table](https://github.com/jstearns1988/Pewlett-Hackard-Analysis/blob/main/Data/retiring%20titles%20table.png)
   
 
